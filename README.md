@@ -1,4 +1,3 @@
-# Craig's SQL Portfolio
+# Retail Store Insights
 
-## Thank you for taking the time to review my SQL Portfolio. Here you will find evidence of my work and SQL abilities. I'm happy to talk about any opportunities so please get in touch.
-_You can also contact me via my LinkedIn page:_
+## The purpose of this project was to provide insight to the business about which items were under and over peforming and which to therefore to investigate as to why they are underperforming and make relevant decisions based on that information.
