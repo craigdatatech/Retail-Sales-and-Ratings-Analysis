@@ -10,8 +10,6 @@ The ultimate determination was that there was no direct correlation between Pric
 
 <img width="1440" alt="Screenshot 2024-07-13 at 21 19 40" src="https://github.com/user-attachments/assets/a4c91b33-71ac-4cee-b825-443db22edc98">
 
-
-
 ## Process
 
 _Using SQL I was able to filter the categories of products and average rating to determine that the Premium Coffee Maker was the product with highest rating, and the Smart Home Security Camera the least._ 
