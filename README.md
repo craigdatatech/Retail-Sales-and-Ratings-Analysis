@@ -1,4 +1,4 @@
-# Retail Store Insights
+# Retail Sales and Product Rating Insights
 
 ## The purpose of this project was to provide insight to the business about which items were performing best and worthy of more promotion, and where to focus investigation as to why products may be underperforming to ultimately make relevant sales and marketing decisions.
 
