@@ -14,7 +14,7 @@ The ultimate determination was that there was no direct correlation between Pric
 
 ## Process
 
-_Using SQL I was able to filter the categories of products and average rating to determine that the Premium Coffee Maker was the product with highest rating, and the Smart Home Security Camera the least. 
+_Using SQL I was able to filter the categories of products and average rating to determine that the Premium Coffee Maker was the product with highest rating, and the Smart Home Security Camera the least._ 
 
 _With this information, the immediate points for the business were to consider how much marketing has been spent on each product, the demographic of they buyers, and the seasonal purchases to uncover areas of opportunity to exploit high sales in the Coffee Maker, and to uncover gaps for why the Security Camera has not performed as well_
 
