@@ -27,6 +27,7 @@ See here different codes run:
 Ultimate result identifying average rating:
 <img width="1049" alt="Screenshot 2024-07-09 at 21 49 25" src="https://github.com/craigdatatech/SQL-Retail-Store/assets/173221299/e21c4684-8419-428c-b709-2a518d568e88">
 
+
 Ultimate result identifying price:
 <img width="1438" alt="Screenshot 2024-07-13 at 21 30 36" src="https://github.com/user-attachments/assets/535ba2c6-b784-49cd-812c-1d0f983435c1">
 
