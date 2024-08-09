@@ -6,8 +6,9 @@
 
 After importing the sales data into Tableau, I related the tables to examine any correlation betweeen Price and Average Product Rating.
 
-The ultimate determination was that there was no direct correlation between Price and Average Rating.  I recommended that the company invest more into the higher performing products to maximise their profits, particularly the products that have a greater profit margin such as the 'memory foam mattress' and the 'Premium Coffee Maker', since from retail domain experiecne I am aware that the profit margin on televisions is low. 
-I also advised them to consider the amount of marketing put into the cheaper and lower rating products to see if there was an opportunity to increase profit on those items, and if there had been a significant marketing campaign put in place, to consider focusing more attention on the better performin products as mentinoned above.
+The ultimate determination was that there was no direct correlation between Price and Average Rating.  I recommended that the company invest more into the higher performing products to maximise their profits, particularly the products that have a greater profit margin such as the 'memory foam mattress' and the 'Premium Coffee Maker', since from retail domain experience I am aware that the profit margin on televisions is low. 
+
+I also advised them to consider the amount of marketing put into the cheaper and lower rating products to see if there was an opportunity to increase profit on those items, and if there had been a significant marketing campaign put in place, to consider focusing more attention on the better performing products as mentioned above.
 Some important variables to consider that could merit further investigation to support the investment or withdrawal of certain products include the demographic of the buyers, and seasonal purchases.  This would help to create an even more focused action plan for the business.
 
 <img width="1440" alt="Screenshot 2024-07-13 at 21 19 40" src="https://github.com/user-attachments/assets/a4c91b33-71ac-4cee-b825-443db22edc98">
