@@ -31,5 +31,10 @@ Ultimate result identifying average rating:
 Ultimate result identifying price:
 <img width="1438" alt="Screenshot 2024-07-13 at 21 30 36" src="https://github.com/user-attachments/assets/535ba2c6-b784-49cd-812c-1d0f983435c1">
 
+## Process (Tableau)
+Finally, in order to visually relate the tables, I imported the sales data into Tableau, and related the tables by "Item Name" to examine any correlation between Price and Average Product Rating.
+<img width="1440" alt="Screenshot 2024-07-21 at 17 54 56" src="https://github.com/user-attachments/assets/74c6f58f-ce9c-4443-a23d-b353b15deca8">
+
+
 
 
